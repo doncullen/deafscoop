@@ -1,0 +1,30 @@
+{
+  "name": "deafscoop-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doncullen/deafscoop.git"
+  },
+  "author": "Don Cullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doncullen/deafscoop/issues"
+  },
+  "homepage": "https://github.com/doncullen/deafscoop#readme",
+  "description": ""
+}
