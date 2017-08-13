@@ -15,7 +15,7 @@ Please read [CONTRIBUTING.md](https://github.com/doncullen/deafscoop/blob/featur
 
 ## Authors
 
-* **Don Cullen** - *Initial work* - [Don Cullen](https://github.com/doncullen)
+* **[Don Cullen](https://github.com/doncullen)** - *Initial work*
 
 See also the list of [contributors](https://github.com/doncullen/deafscoop/contributors) who participated in this project.
 
