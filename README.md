@@ -11,7 +11,7 @@ An automated news aggregator.  It pulls deaf-related news from Google, applies f
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
